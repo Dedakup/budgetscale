@@ -1,6 +1,6 @@
-# **NextScale**
+# **BudgetScale**
 
-**NextScale** is a production-ready, cost-efficient serverless app template designed to help developers build scalable, reliable applications on AWS without breaking the bank. Perfect for budget-conscious projects, it saves time and effort by providing a robust foundation with pre-configured integrations and enterprise-grade features.
+**BudgetScale** is a production-ready, cost-efficient serverless app template designed to help developers build scalable, reliable applications on AWS without breaking the bank. Perfect for budget-conscious projects, it saves time and effort by providing a robust foundation with pre-configured integrations and enterprise-grade features.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## **Why NextScale?**
+## **Why BudgetScale?**
 1. **Affordable for All**: Designed for projects where users pay out of pocket or operate on limited budgets.
 2. **Scalable and Flexible**: Handles everything from MVPs to enterprise-grade apps without costly overhead.
 3. **Effortless Start**: Saves time with pre-configured integrations and production-ready features.
@@ -45,8 +45,8 @@
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/nextscale.git
-   cd nextscale
+   git clone https://github.com/yourusername/budgetscale.git
+   cd budgetscale
    ```
 2. Install dependencies:
    ```bash
