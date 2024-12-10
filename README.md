@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/images/next-scale-logo.png" alt="Next Scale Logo">
+  <img src="./docs/images/next-scale-logo.png" alt="Next Scale Logo" width="350">
 </p>
 
 # **Next-scale**
