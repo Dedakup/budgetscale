@@ -1,3 +1,5 @@
+![Next Scale Banner](./docs/images/next-scale-logo.png)
+
 # **Next-scale**
 
 **Next-scale** is a production-ready, cost-efficient serverless app template designed to help developers build scalable, reliable applications on AWS without breaking the bank. Perfect for budget-conscious projects, it saves time and effort by providing a robust foundation with pre-configured integrations and enterprise-grade features.
