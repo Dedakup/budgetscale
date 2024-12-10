@@ -1,4 +1,6 @@
-![Next Scale Banner](./docs/images/next-scale-logo.png)
+<p align="center">
+  <img src="./docs/images/next-scale-logo.png" alt="Next Scale Logo">
+</p>
 
 # **Next-scale**
 
